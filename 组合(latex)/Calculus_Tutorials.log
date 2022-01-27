@@ -1,0 +1,2634 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.8)  28 JAN 2022 00:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Calculus_Tutorials.tex
+(./Calculus_Tutorials.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(c:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count186
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count187
+\leftroot@=\count188
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count189
+\DOTSCASE@=\count190
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count191
+\c@MaxMatrixCols=\count192
+\dotsspace@=\muskip16
+\c@parentequation=\count193
+\dspbrk@lvl=\count194
+\tag@help=\toks17
+\row@=\count195
+\column@=\count196
+\maxfields@=\count197
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(c:/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks26
+)
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/ctex.sty
+(c:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count198
+\l__color_backend_stack_int=\count199
+\g__color_backend_stack_int=\count266
+\g__graphics_track_int=\count267
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count268
+\g__pdf_backend_annotation_int=\count269
+\g__pdf_backend_link_int=\count270
+))
+Package: ctex 2021/06/20 v2.5.7 Chinese adapter in LaTeX (CTEX)
+
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/06/20 v2.5.7 Document and package hooks (CTEX)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/06/20 v2.5.7 Patching commands (CTEX)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count271
+\l__ctex_tmp_box=\box53
+\l__ctex_tmp_dim=\dimen148
+\g__ctex_section_depth_int=\count272
+\g__ctex_font_size_int=\count273
+
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/06/20 v2.5.7 Option configuration file (CTEX)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/06/20 v2.5.7 XeLaTeX adapter (CTEX)
+
+(c:/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2021/06/20 v3.8.7 Typesetting CJK scripts with XeLaTeX
+
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2021-08-27 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen149
+\l__xtemplate_tmp_int=\count274
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip55
+)
+\l__xeCJK_tmp_int=\count275
+\l__xeCJK_tmp_box=\box54
+\l__xeCJK_tmp_dim=\dimen150
+\l__xeCJK_tmp_skip=\skip56
+\g__xeCJK_space_factor_int=\count276
+\l__xeCJK_begin_int=\count277
+\l__xeCJK_end_int=\count278
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip57
+\g__xeCJK_node_int=\count279
+\c__xeCJK_CJK_node_dim=\dimen151
+\c__xeCJK_CJK-space_node_dim=\dimen152
+\c__xeCJK_default_node_dim=\dimen153
+\c__xeCJK_default-space_node_dim=\dimen154
+\c__xeCJK_CJK-widow_node_dim=\dimen155
+\c__xeCJK_normalspace_node_dim=\dimen156
+\l__xeCJK_ccglue_skip=\skip58
+\l__xeCJK_ecglue_skip=\skip59
+\l__xeCJK_punct_kern_skip=\skip60
+\l__xeCJK_last_penalty_int=\count280
+\l__xeCJK_last_bound_dim=\dimen157
+\l__xeCJK_last_kern_dim=\dimen158
+\l__xeCJK_widow_penalty_int=\count281
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2335.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen159
+\l__xeCJK_mixed_punct_width_dim=\dimen160
+\l__xeCJK_middle_punct_width_dim=\dimen161
+\l__xeCJK_fixed_margin_width_dim=\dimen162
+\l__xeCJK_mixed_margin_width_dim=\dimen163
+\l__xeCJK_middle_margin_width_dim=\dimen164
+\l__xeCJK_bound_punct_width_dim=\dimen165
+\l__xeCJK_bound_margin_width_dim=\dimen166
+\l__xeCJK_margin_minimum_dim=\dimen167
+\l__xeCJK_kerning_total_width_dim=\dimen168
+\l__xeCJK_same_align_margin_dim=\dimen169
+\l__xeCJK_different_align_margin_dim=\dimen170
+\l__xeCJK_kerning_margin_width_dim=\dimen171
+\l__xeCJK_kerning_margin_minimum_dim=\dimen172
+\l__xeCJK_bound_dim=\dimen173
+\l__xeCJK_reverse_bound_dim=\dimen174
+\l__xeCJK_margin_dim=\dimen175
+\l__xeCJK_minimum_bound_dim=\dimen176
+\l__xeCJK_kerning_margin_dim=\dimen177
+\g__xeCJK_family_int=\count282
+\l__xeCJK_fam_int=\count283
+\g__xeCJK_fam_allocation_int=\count284
+\l__xeCJK_verb_case_int=\count285
+\l__xeCJK_verb_exspace_skip=\skip61
+
+(c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen178
+\l__fontspec_tmpb_dim=\dimen179
+\l__fontspec_tmpc_dim=\dimen180
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(c:/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2021/06/20 v3.8.7 Configuration file for xeCJK package
+))
+\ccwd=\dimen181
+\l__ctex_ccglue_skip=\skip62
+)
+\l__ctex_ziju_dim=\dimen182
+
+(c:/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count297
+
+(c:/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2021/06/20 v2.5.7 Chinese scheme for generic (CTE
+X)
+
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/06/20 v2.5.7 Caption with encoding UTF-8 (CTEX)
+))
+(c:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2021/06/20 v2.5.7 c5size option (CTEX)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2021/06/20 v2.5.7 Windows fonts definition (CTEX
+)
+
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+))
+(c:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/06/20 v2.5.7 Configuration file (CTEX)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+(c:/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen183
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(c:/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count300
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count301
+
+(c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen184
+
+(c:/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count302
+\Field@Width=\dimen185
+\Fld@charsize=\dimen186
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count303
+\c@Item=\count304
+\c@Hfootnote=\count305
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
+
+(c:/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box55
+\c@Hy@AnnotLevel=\count306
+\HyField@AnnotCount=\count307
+\Fld@listcount=\count308
+\c@bookmark@seq@number=\count309
+
+(c:/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(c:/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip63
+)
+(c:/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip64
+\aftertitleunit=\skip65
+\ttl@plus=\dimen187
+\ttl@minus=\dimen188
+\ttl@toksa=\toks29
+\titlewidth=\dimen189
+\titlewidthlast=\dimen190
+\titlewidthfirst=\dimen191
+)
+(c:/texlive/2021/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen192
+)
+(c:/texlive/2021/texmf-dist/tex/latex/cases/cases.sty
+Package: cases 2020/03/29 ver 3.2
+\numc@numwid=\dimen193
+)
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen194
+\pgfutil@tempdimb=\dimen195
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box57
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen196
+\Gin@req@width=\dimen197
+)
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen198
+\pgf@y=\dimen199
+\pgf@xa=\dimen256
+\pgf@ya=\dimen257
+\pgf@xb=\dimen258
+\pgf@yb=\dimen259
+\pgf@xc=\dimen260
+\pgf@yc=\dimen261
+\pgf@xd=\dimen262
+\pgf@yd=\dimen263
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count310
+\c@pgf@countb=\count311
+\c@pgf@countc=\count312
+\c@pgf@countd=\count313
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count314
+ (c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count315
+)))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count316
+\pgfsyssoftpath@bigbuffer@items=\count317
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen264
+\pgfmath@count=\count318
+\pgfmath@box=\box58
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count319
+))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen265
+\pgf@picmaxx=\dimen266
+\pgf@picminy=\dimen267
+\pgf@picmaxy=\dimen268
+\pgf@pathminx=\dimen269
+\pgf@pathmaxx=\dimen270
+\pgf@pathminy=\dimen271
+\pgf@pathmaxy=\dimen272
+\pgf@xx=\dimen273
+\pgf@xy=\dimen274
+\pgf@yx=\dimen275
+\pgf@yy=\dimen276
+\pgf@zx=\dimen277
+\pgf@zy=\dimen278
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen279
+\pgf@path@lasty=\dimen280
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen281
+\pgf@shorten@start@additional=\dimen282
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count320
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen283
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen284
+\pgf@pt@y=\dimen285
+\pgf@pt@temp=\dimen286
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen287
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen288
+\pgf@sys@shading@range@num=\count321
+\pgf@shadingcount=\count322
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box62
+))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box63
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen289
+\pgf@nodesepend=\dimen290
+)
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen291
+\pgffor@skip=\dimen292
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count323
+\pgfplotmarksize=\dimen293
+)
+\tikz@lastx=\dimen294
+\tikz@lasty=\dimen295
+\tikz@lastxsaved=\dimen296
+\tikz@lastysaved=\dimen297
+\tikz@lastmovetox=\dimen298
+\tikz@lastmovetoy=\dimen299
+\tikzleveldistance=\dimen300
+\tikzsiblingdistance=\dimen301
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count324
+\tikznumberofchildren=\count325
+\tikznumberofcurrentchild=\count326
+\tikz@fig@count=\count327
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count328
+\pgfmatrixcurrentcolumn=\count329
+\pgf@matrix@numberofcolumns=\count330
+)
+\tikz@expandcount=\count331
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count332
+\calc@Bcount=\count333
+\calc@Adimen=\dimen302
+\calc@Bdimen=\dimen303
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count334
+\calc@Cskip=\skip68
+)
+(c:/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen304
+\ESO@tempdimb=\dimen305
+)
+\AM@pagewidth=\dimen306
+\AM@pageheight=\dimen307
+\AM@fboxrule=\dimen308
+
+(c:/texlive/2021/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2021/03/06 v0.5t Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count335
+\AM@pagebox=\box68
+\AM@global@opts=\toks42
+\AM@pagecnt=\count336
+\AM@toc@title=\toks43
+\c@AM@survey=\count337
+\AM@templatesizebox=\box69
+)
+(c:/texlive/2021/texmf-dist/tex/latex/overpic/overpic.sty
+Package: overpic 2020/02/22 1.3 picture overlays (RN)
+
+(c:/texlive/2021/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count338
+\d@lta=\count339
+\@delta=\dimen309
+\@@delta=\dimen310
+\@gridcnt=\count340
+\@joinkind=\count341
+\@dotgap=\dimen311
+\@ddotgap=\dimen312
+\@x@diff=\count342
+\@y@diff=\count343
+\x@diff=\dimen313
+\y@diff=\dimen314
+\@dotbox=\box70
+\num@segments=\count344
+\num@segmentsi=\count345
+\@datafile=\read3
+)
+\OVP@box=\box71
+)
+\c@example=\count346
+ (./Calculus_Tutorials.aux)
+\openout1 = `Calculus_Tutorials.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
+LaTeX Font Info:    Redeclaring math accent \check on input line 34.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 34.
+Package hyperref Info: Link coloring OFF on input line 34.
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count347
+)
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
+
+(./Calculus_Tutorials.out) (./Calculus_Tutorials.out)
+\@outlinefile=\write4
+\openout4 = `Calculus_Tutorials.out'.
+
+
+(c:/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+File: blank.png Graphic file (type bmp)
+<blank.png>
+File: logo.png Graphic file (type bmp)
+<logo.png>
+File: ahu.png Graphic file (type bmp)
+<ahu.png>
+ [1
+
+] [2]
+(./Calculus_Tutorials.toc)
+\tf@toc=\write5
+\openout5 = `Calculus_Tutorials.toc'.
+
+ [3] [4]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [5] [6]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 1>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 1>
+ [7]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 1>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 1>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 1>
+ [8]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 2>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 2>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 2>
+
+[9]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 3>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 3>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 3>
+ [10]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 4>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 4>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 4>
+ [11]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 5>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 5>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 5>
+ [12]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 6>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 6>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 6>
+ [13]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 7>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 7>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 7>
+ [14]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 8>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 8>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 8>
+ [15]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 9>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 9>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 9>
+ [16]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 10>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 10>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 10>
+ [17]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 11>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 11>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 11>
+ [18]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 12>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 12>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 12>
+ [19]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 13>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 13>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 13>
+ [20]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 14>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 14>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 14>
+ [21]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 15>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 15>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 15>
+ [22]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 16>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 16>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 16>
+ [23]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 17>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 17>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 17>
+
+[24]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 18>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 18>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 18>
+ [25]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 19>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 19>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 19>
+ [26]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 20>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 20>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 20>
+ [27]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 21>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 21>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 21>
+ [28]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 22>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 22>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 22>
+ [29]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 23>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 23>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 23>
+ [30]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 24>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 24>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 24>
+ [31]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 25>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 25>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 25>
+ [32]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 26>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 26>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 26>
+ [33]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 27>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 27>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 27>
+ [34]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 28>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 28>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 28>
+ [35]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 29>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 29>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 29>
+ [36]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 30>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 30>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 30>
+ [37]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 31>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 31>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 31>
+ [38]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 32>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 32>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 32>
+
+[39]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 33>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 33>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 33>
+ [40]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 34>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 34>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 34>
+ [41]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 35>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 35>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 35>
+ [42]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 36>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 36>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 36>
+ [43]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 37>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 37>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 37>
+ [44]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 38>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 38>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 38>
+ [45]
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 39>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 39>
+File: ./chapter2.pdf Graphic file (type pdf)
+<use ./chapter2.pdf, page 39>
+ [46]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 1>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 1>
+ [47]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 1>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 1>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 1>
+ [48]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 2>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 2>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 2>
+ [49]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 3>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 3>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 3>
+ [50]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 4>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 4>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 4>
+ [51]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 5>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 5>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 5>
+ [52]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 6>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 6>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 6>
+ [53]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 7>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 7>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 7>
+
+[54]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 8>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 8>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 8>
+ [55]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 9>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 9>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 9>
+ [56]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 10>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 10>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 10>
+ [57]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 11>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 11>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 11>
+ [58]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 12>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 12>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 12>
+ [59]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 13>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 13>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 13>
+ [60]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 14>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 14>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 14>
+ [61]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 15>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 15>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 15>
+ [62]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 16>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 16>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 16>
+ [63]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 17>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 17>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 17>
+ [64]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 18>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 18>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 18>
+ [65]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 19>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 19>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 19>
+ [66]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 20>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 20>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 20>
+ [67]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 21>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 21>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 21>
+ [68]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 22>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 22>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 22>
+
+[69]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 23>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 23>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 23>
+ [70]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 24>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 24>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 24>
+ [71]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 25>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 25>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 25>
+ [72]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 26>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 26>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 26>
+ [73]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 27>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 27>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 27>
+ [74]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 28>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 28>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 28>
+ [75]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 29>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 29>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 29>
+ [76]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 30>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 30>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 30>
+ [77]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 31>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 31>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 31>
+ [78]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 32>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 32>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 32>
+ [79]
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 33>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 33>
+File: ./chapter3.pdf Graphic file (type pdf)
+<use ./chapter3.pdf, page 33>
+ [80]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 1>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 1>
+ [81]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 1>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 1>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 1>
+ [82]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 2>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 2>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 2>
+ [83]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 3>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 3>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 3>
+
+[84]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 4>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 4>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 4>
+ [85]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 5>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 5>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 5>
+ [86]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 6>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 6>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 6>
+ [87]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 7>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 7>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 7>
+ [88]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 8>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 8>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 8>
+ [89]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 9>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 9>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 9>
+ [90]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 10>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 10>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 10>
+ [91]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 11>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 11>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 11>
+ [92]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 12>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 12>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 12>
+ [93]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 13>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 13>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 13>
+ [94]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 14>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 14>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 14>
+ [95]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 15>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 15>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 15>
+ [96]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 16>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 16>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 16>
+ [97]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 17>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 17>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 17>
+ [98]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 18>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 18>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 18>
+
+[99]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 19>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 19>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 19>
+ [100]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 20>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 20>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 20>
+ [101]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 21>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 21>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 21>
+ [102]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 22>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 22>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 22>
+ [103]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 23>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 23>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 23>
+ [104]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 24>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 24>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 24>
+ [105]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 25>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 25>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 25>
+ [106]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 26>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 26>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 26>
+ [107]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 27>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 27>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 27>
+ [108]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 28>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 28>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 28>
+ [109]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 29>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 29>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 29>
+ [110]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 30>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 30>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 30>
+ [111]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 31>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 31>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 31>
+
+[112]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 32>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 32>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 32>
+ [113]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 33>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 33>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 33>
+ [114]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 34>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 34>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 34>
+ [115]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 35>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 35>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 35>
+ [116]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 36>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 36>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 36>
+ [117]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 37>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 37>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 37>
+ [118]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 38>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 38>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 38>
+ [119]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 39>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 39>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 39>
+ [120]
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 40>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 40>
+File: ./chapter4.pdf Graphic file (type pdf)
+<use ./chapter4.pdf, page 40>
+ [121]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 1>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 1>
+ [122]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 1>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 1>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 1>
+ [123]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 2>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 2>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 2>
+
+[124]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 3>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 3>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 3>
+ [125]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 4>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 4>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 4>
+ [126]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 5>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 5>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 5>
+ [127]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 6>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 6>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 6>
+ [128]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 7>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 7>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 7>
+ [129]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 8>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 8>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 8>
+ [130]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 9>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 9>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 9>
+ [131]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 10>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 10>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 10>
+ [132]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 11>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 11>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 11>
+ [133]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 12>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 12>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 12>
+ [134]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 13>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 13>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 13>
+ [135]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 14>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 14>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 14>
+
+[136]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 15>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 15>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 15>
+ [137]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 16>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 16>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 16>
+ [138]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 17>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 17>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 17>
+ [139]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 18>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 18>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 18>
+ [140]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 19>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 19>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 19>
+ [141]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 20>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 20>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 20>
+ [142]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 21>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 21>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 21>
+ [143]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 22>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 22>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 22>
+ [144]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 23>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 23>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 23>
+ [145]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 24>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 24>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 24>
+ [146]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 25>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 25>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 25>
+ [147]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 26>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 26>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 26>
+
+[148]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 27>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 27>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 27>
+ [149]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 28>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 28>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 28>
+ [150]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 29>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 29>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 29>
+ [151]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 30>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 30>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 30>
+ [152]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 31>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 31>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 31>
+ [153]
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 32>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 32>
+File: ./chapter5.pdf Graphic file (type pdf)
+<use ./chapter5.pdf, page 32>
+ [154]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 1>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 1>
+ [155]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 1>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 1>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 1>
+ [156]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 2>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 2>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 2>
+ [157]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 3>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 3>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 3>
+ [158]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 4>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 4>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 4>
+ [159]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 5>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 5>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 5>
+
+[160]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 6>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 6>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 6>
+ [161]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 7>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 7>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 7>
+ [162]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 8>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 8>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 8>
+ [163]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 9>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 9>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 9>
+ [164]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 10>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 10>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 10>
+ [165]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 11>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 11>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 11>
+ [166]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 12>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 12>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 12>
+ [167]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 13>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 13>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 13>
+ [168]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 14>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 14>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 14>
+ [169]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 15>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 15>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 15>
+ [170]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 16>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 16>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 16>
+ [171]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 17>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 17>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 17>
+
+[172]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 18>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 18>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 18>
+ [173]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 19>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 19>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 19>
+ [174]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 20>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 20>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 20>
+ [175]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 21>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 21>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 21>
+ [176]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 22>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 22>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 22>
+ [177]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 23>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 23>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 23>
+ [178]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 24>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 24>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 24>
+ [179]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 25>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 25>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 25>
+ [180]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 26>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 26>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 26>
+ [181]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 27>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 27>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 27>
+ [182]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 28>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 28>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 28>
+ [183]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 29>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 29>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 29>
+
+[184]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 30>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 30>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 30>
+ [185]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 31>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 31>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 31>
+ [186]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 32>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 32>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 32>
+ [187]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 33>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 33>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 33>
+ [188]
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 34>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 34>
+File: ./chapter6.pdf Graphic file (type pdf)
+<use ./chapter6.pdf, page 34>
+ [189]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 1>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 1>
+ [190]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 1>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 1>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 1>
+ [191]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 2>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 2>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 2>
+ [192]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 3>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 3>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 3>
+ [193]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 4>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 4>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 4>
+ [194]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 5>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 5>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 5>
+ [195]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 6>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 6>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 6>
+
+[196]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 7>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 7>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 7>
+ [197]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 8>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 8>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 8>
+ [198]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 9>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 9>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 9>
+ [199]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 10>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 10>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 10>
+ [200]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 11>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 11>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 11>
+ [201]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 12>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 12>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 12>
+ [202]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 13>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 13>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 13>
+ [203]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 14>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 14>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 14>
+ [204]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 15>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 15>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 15>
+ [205]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 16>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 16>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 16>
+ [206]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 17>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 17>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 17>
+ [207]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 18>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 18>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 18>
+
+[208]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 19>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 19>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 19>
+ [209]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 20>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 20>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 20>
+ [210]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 21>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 21>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 21>
+ [211]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 22>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 22>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 22>
+ [212]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 23>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 23>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 23>
+ [213]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 24>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 24>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 24>
+ [214]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 25>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 25>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 25>
+ [215]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 26>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 26>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 26>
+ [216]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 27>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 27>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 27>
+ [217]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 28>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 28>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 28>
+ [218]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 29>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 29>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 29>
+ [219]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 30>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 30>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 30>
+
+[220]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 31>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 31>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 31>
+ [221]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 32>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 32>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 32>
+ [222]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 33>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 33>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 33>
+ [223]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 34>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 34>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 34>
+ [224]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 35>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 35>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 35>
+ [225]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 36>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 36>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 36>
+ [226]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 37>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 37>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 37>
+ [227]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 38>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 38>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 38>
+ [228]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 39>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 39>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 39>
+ [229]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 40>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 40>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 40>
+ [230]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 41>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 41>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 41>
+ [231]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 42>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 42>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 42>
+
+[232]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 43>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 43>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 43>
+ [233]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 44>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 44>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 44>
+ [234]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 45>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 45>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 45>
+ [235]
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 46>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 46>
+File: ./chapter7.pdf Graphic file (type pdf)
+<use ./chapter7.pdf, page 46>
+ [236] (./Calculus_Tutorials.aux)
+Package rerunfilecheck Info: File `Calculus_Tutorials.out' has not changed.
+(rerunfilecheck)             Checksum: 4F0FE3A578EFBBB13A1C95BC5BD5936D;458.
+ ) 
+Here is how much of TeX's memory you used:
+ 26483 strings out of 476493
+ 556671 string characters out of 5820669
+ 879414 words of memory out of 5000000
+ 46416 multiletter control sequences out of 15000+600000
+ 408511 words of font info for 72 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 102i,17n,108p,429b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Calculus_Tutorials.pdf (236 pages).
