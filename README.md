@@ -1,2 +1,9 @@
-# Calculus I Tutorials
- Tutorial for Calculus I
+# 《高等数学（一）》辅导资料
+各位同学如果发现不足的地方可以直接在这里反馈，或者发邮件到tarregahong@gmail.com。
+
+辅导资料pdf文件位于“组合（latex）”-> “Calculus_Tutorials.pdf”。
+
+目前的制作路径为：先在两个以“电子化”开头的文件夹中修改对应的内容，其中“电子化（latex）”只包含4.1和4.2，其余内容全在“电子化（word）”文件夹内，修改后生成pdf。再把同一章的所有pdf合并为“组合”文件夹内的对应章节文件，最后由同一文件夹内的tex文件编译成最终的pdf。
+
+最终目标是所有内容都转化为latex文件（龟速施工中）。
+
