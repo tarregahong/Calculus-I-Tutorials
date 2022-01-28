@@ -5,28 +5,10 @@
 \usepackage{ctex}
 \usepackage{enumerate}
 \usepackage{hyperref}
-%\usepackage{draftwatermark}
 \usepackage{titlesec,titletoc}
 \usepackage{cases}
-\usepackage{tikz}
 \usepackage{pdfpages}
 \usepackage[abs]{overpic} 
-% define the plot style and the axis style
-\tikzset{elegant/.style={smooth,thick,samples=50,cyan}}
-\tikzset{eaxis/.style={->,>=stealth}}
-
-\newtheorem{example}{例}[section]             
-\newtheorem{theorem}[example]{定理}
-\newtheorem{definition}[example]{定义}
-\newtheorem{axiom}[example]{公理}
-\newtheorem{property}[example]{性质}
-\newtheorem{proposition}[example]{命题}
-\newtheorem{lemma}[example]{引理}
-\newtheorem{corollary}[example]{推论}
-\newtheorem{remark}[example]{注}
-\newtheorem{condition}[example]{条件}
-\newtheorem{conclusion}[example]{结论}
-\newtheorem{assumption}[example]{假设}
 
 \renewcommand\contentsname{\centering 目录}
 
@@ -36,7 +18,6 @@
 	\begin{overpic}[abs, scale=0.5]{blank.png}
 		\put(340,60){\includegraphics[scale=2.5]{logo.png}}
 		\put(350,-350){\includegraphics[scale=2.5]{ahu.png}}
-		%\put(350,-350){\includegraphics[scale=5]{ele.png}}
 	\end{overpic}
 	\put(-10, -150){\zihao{1} \bf《高等数学（一）》辅导资料}
 	\put(83,-235){\zihao{4} \bf \today 编译}
@@ -78,6 +59,7 @@
 		\item 这份资料做起来十分辛苦，里面也无法避免地有一些纰漏，请各位同学使用时多多理解和包涵，如遇不周全的地方，请辩证看待。
 		\item 如前所述，参考本资料时请多多思考资料中的解法是否合理正确。如果有问题，为什么这么做不可以，自己能不能有正确的方法。
 		\item 大学里自己要对自己负责，如果有同学决定用这份参考资料来应付高数作业，请想想清楚上大学是为了什么。
+		\item 反馈错误与将来更新请见Github上的 \href{https://github.com/tarregahong/Calculus-I-Tutorials}{项目}。 
 	\end{itemize}
 	
 	再次感谢所有参与了制作这份资料的同学，你们的付出不仅方便了同届的同学，更使得后来的学弟学妹们拥有了一份属于安大学子自己的复习资料！
