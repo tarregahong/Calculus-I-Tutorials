@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.6)  29 JAN 2022 15:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.6)  29 JAN 2022 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6032,12 +6032,83 @@ Package pdftex.def Info: ../Word/Chapter7/7.5.pdf , page7 used on input line 17
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [226 <../Word/Chapter7/7.5.pdf>]
 
+pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/7.6.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<../Word/Chapter7/7.6.pdf, id=3490, 597.55246pt x 845.07718pt>
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf  used on input line 175.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+
+pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/7.6.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf  used on input line 175.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+
+pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/7.6.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/7.6.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<../Word/Chapter7/7.6.pdf, id=3493, page=1, 597.55246pt x 845.07718pt>
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf, page 1>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf , page1 used on input line 17
+5.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf, page 1>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf , page1 used on input line 17
+5.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf, page 1>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf , page1 used on input line 17
+5.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf, page 1>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf , page1 used on input line 17
+5.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf, page 1>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf , page1 used on input line 17
+5.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+[227 <../Word/Chapter7/7.6.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/7.6.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<../Word/Chapter7/7.6.pdf, id=3544, page=2, 597.55246pt x 845.07718pt>
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf, page 2>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf , page2 used on input line 17
+5.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf, page 2>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf , page2 used on input line 17
+5.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: ../Word/Chapter7/7.6.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/7.6.pdf, page 2>
+Package pdftex.def Info: ../Word/Chapter7/7.6.pdf , page2 used on input line 17
+5.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+[228 <../Word/Chapter7/7.6.pdf>]
+
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3490, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3553, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 <use ../Word/Chapter7/Review7.pdf>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf  used on input line 175.
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf  used on input line 176.
 (pdftex.def)             Requested size: 597.63132pt x 844.95468pt.
 
 
@@ -6045,7 +6116,7 @@ pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 <use ../Word/Chapter7/Review7.pdf>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf  used on input line 175.
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf  used on input line 176.
 (pdftex.def)             Requested size: 597.63132pt x 844.95468pt.
 
 
@@ -6055,507 +6126,501 @@ pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3493, page=1, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3556, page=1, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 <use ../Word/Chapter7/Review7.pdf, page 1>
 Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page1 used on input lin
-e 175.
+e 176.
 (pdftex.def)             Requested size: 597.63132pt x 844.95468pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 <use ../Word/Chapter7/Review7.pdf, page 1>
 Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page1 used on input lin
-e 175.
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 <use ../Word/Chapter7/Review7.pdf, page 1>
 Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page1 used on input lin
-e 175.
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 <use ../Word/Chapter7/Review7.pdf, page 1>
 Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page1 used on input lin
-e 175.
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 <use ../Word/Chapter7/Review7.pdf, page 1>
 Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page1 used on input lin
-e 175.
-(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
-[227 <../Word/Chapter7/Review7.pdf>]
-
-pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
-: found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3525, page=2, 597.63278pt x 844.95674pt>
-File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 2>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page2 used on input lin
-e 175.
-(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
-File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 2>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page2 used on input lin
-e 175.
-(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
-File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 2>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page2 used on input lin
-e 175.
-(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
-[228 <../Word/Chapter7/Review7.pdf>]
-
-pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
-: found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3531, page=3, 597.63278pt x 844.95674pt>
-File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 3>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page3 used on input lin
-e 175.
-(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
-File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 3>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page3 used on input lin
-e 175.
-(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
-File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 3>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page3 used on input lin
-e 175.
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [229 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3538, page=4, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3588, page=2, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 4>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page4 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 2>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page2 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 4>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page4 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 2>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page2 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 4>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page4 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 2>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page2 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [230 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3544, page=5, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3594, page=3, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 5>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page5 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 3>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page3 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 5>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page5 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 3>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page3 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 5>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page5 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 3>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page3 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [231 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3550, page=6, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3600, page=4, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 6>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page6 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 4>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page4 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 6>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page6 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 4>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page4 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 6>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page6 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 4>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page4 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [232 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3556, page=7, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3606, page=5, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 7>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page7 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 5>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page5 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 7>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page7 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 5>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page5 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 7>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page7 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 5>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page5 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [233 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3562, page=8, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3612, page=6, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 8>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page8 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 6>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page6 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 8>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page8 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 6>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page6 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 8>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page8 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 6>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page6 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [234 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3568, page=9, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3618, page=7, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 9>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page9 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 7>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page7 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 9>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page9 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 7>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page7 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 9>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page9 used on input lin
-e 175.
+<use ../Word/Chapter7/Review7.pdf, page 7>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page7 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [235 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3575, page=10, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3625, page=8, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 10>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page10 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 8>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page8 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 10>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page10 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 8>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page8 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 10>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page10 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 8>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page8 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [236 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3581, page=11, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3631, page=9, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 11>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page11 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 9>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page9 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 11>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page11 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 9>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page9 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 11>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page11 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 9>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page9 used on input lin
+e 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [237 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3587, page=12, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3637, page=10, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 12>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page12 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 10>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page10 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 12>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page12 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 10>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page10 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 12>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page12 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 10>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page10 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [238 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3593, page=13, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3643, page=11, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 13>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page13 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 11>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page11 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 13>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page13 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 11>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page11 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 13>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page13 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 11>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page11 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [239 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3599, page=14, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3649, page=12, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 14>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page14 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 12>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page12 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 14>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page14 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 12>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page12 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 14>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page14 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 12>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page12 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [240 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3605, page=15, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3655, page=13, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 15>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page15 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 13>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page13 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 15>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page15 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 13>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page13 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 15>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page15 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 13>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page13 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [241 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3612, page=16, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3662, page=14, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 16>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page16 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 14>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page14 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 16>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page16 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 14>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page14 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 16>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page16 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 14>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page14 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [242 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3618, page=17, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3669, page=15, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 17>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page17 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 15>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page15 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 17>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page17 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 15>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page15 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 17>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page17 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 15>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page15 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [243 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3624, page=18, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3675, page=16, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 18>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page18 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 16>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page16 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 18>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page18 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 16>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page16 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 18>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page18 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 16>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page16 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [244 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3630, page=19, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3681, page=17, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 19>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page19 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 17>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page17 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 19>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page19 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 17>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page17 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 19>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page19 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 17>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page17 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [245 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3636, page=20, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3687, page=18, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 20>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page20 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 18>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page18 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 20>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page20 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 18>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page18 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 20>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page20 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 18>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page18 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [246 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3642, page=21, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3693, page=19, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 21>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page21 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 19>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page19 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 21>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page21 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 19>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page19 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 21>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page21 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 19>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page19 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [247 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3649, page=22, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3700, page=20, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 22>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page22 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 20>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page20 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 22>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page22 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 20>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page20 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 22>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page22 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 20>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page20 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [248 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3655, page=23, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3706, page=21, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 23>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page23 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 21>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page21 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 23>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page23 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 21>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page21 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 23>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page23 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 21>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page21 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 [249 <../Word/Chapter7/Review7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<../Word/Chapter7/Review7.pdf, id=3661, page=24, 597.63278pt x 844.95674pt>
+<../Word/Chapter7/Review7.pdf, id=3712, page=22, 597.63278pt x 844.95674pt>
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 24>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page24 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 22>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page22 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 24>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page24 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 22>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page22 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
-<use ../Word/Chapter7/Review7.pdf, page 24>
-Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page24 used on input li
-ne 175.
+<use ../Word/Chapter7/Review7.pdf, page 22>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page22 used on input li
+ne 176.
 (pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
-[250 <../Word/Chapter7/Review7.pdf>] (./Calculus_Tutorials.aux)
+[250 <../Word/Chapter7/Review7.pdf>]
 
-Package rerunfilecheck Warning: File `Calculus_Tutorials.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<../Word/Chapter7/Review7.pdf, id=3718, page=23, 597.63278pt x 844.95674pt>
+File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/Review7.pdf, page 23>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page23 used on input li
+ne 176.
+(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
+File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/Review7.pdf, page 23>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page23 used on input li
+ne 176.
+(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
+File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/Review7.pdf, page 23>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page23 used on input li
+ne 176.
+(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
+[251 <../Word/Chapter7/Review7.pdf>]
 
-Package rerunfilecheck Info: Checksums for `Calculus_Tutorials.out':
-(rerunfilecheck)             Before: 9EEBB8AFA6BC406C3CF4D5369A741529;466
-(rerunfilecheck)             After:  2594F4E7E6C24A370575FB5712104622;474.
+pdfTeX warning: pdflatex.exe (file ../Word/Chapter7/Review7.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<../Word/Chapter7/Review7.pdf, id=3724, page=24, 597.63278pt x 844.95674pt>
+File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/Review7.pdf, page 24>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page24 used on input li
+ne 176.
+(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
+File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/Review7.pdf, page 24>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page24 used on input li
+ne 176.
+(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
+File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
+<use ../Word/Chapter7/Review7.pdf, page 24>
+Package pdftex.def Info: ../Word/Chapter7/Review7.pdf , page24 used on input li
+ne 176.
+(pdftex.def)             Requested size: 562.90565pt x 795.85818pt.
+[252 <../Word/Chapter7/Review7.pdf>] (./Calculus_Tutorials.aux)
+Package rerunfilecheck Info: File `Calculus_Tutorials.out' has not changed.
+(rerunfilecheck)             Checksum: 2594F4E7E6C24A370575FB5712104622;474.
  ) 
 Here is how much of TeX's memory you used:
- 16747 strings out of 478599
- 278026 string characters out of 5858101
- 560324 words of memory out of 5000000
- 33800 multiletter control sequences out of 15000+600000
+ 16765 strings out of 478599
+ 278571 string characters out of 5858101
+ 560448 words of memory out of 5000000
+ 33814 multiletter control sequences out of 15000+600000
  436087 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,17n,82p,725b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -6606,10 +6671,10 @@ cmr5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c
 f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fon
 ts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2021/texmf-dist/fonts/t
 ype1/public/cm-super/sfrm1000.pfb>
-Output written on Calculus_Tutorials.pdf (250 pages, 6325611 bytes).
+Output written on Calculus_Tutorials.pdf (252 pages, 6483005 bytes).
 PDF statistics:
- 4051 PDF objects out of 4296 (max. 8388607)
- 2827 compressed objects within 29 object streams
- 258 named destinations out of 1000 (max. 500000)
- 2067 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4114 PDF objects out of 4296 (max. 8388607)
+ 2875 compressed objects within 29 object streams
+ 260 named destinations out of 1000 (max. 500000)
+ 2092 words of extra memory for PDF output out of 10000 (max. 10000000)
 
