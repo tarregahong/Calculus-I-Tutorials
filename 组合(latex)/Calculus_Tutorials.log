@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.6)  8 NOV 2022 21:24
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.6)  8 NOV 2022 21:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2701,21 +2701,15 @@ File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 File: ../Word/Chapter7/Review7.pdf Graphic file (type pdf)
 <use ../Word/Chapter7/Review7.pdf, page 24>
  [251] (./Calculus_Tutorials.aux)
-
-Package rerunfilecheck Warning: File `Calculus_Tutorials.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Calculus_Tutorials.out':
-(rerunfilecheck)             Before: 9CDA25251F104472B2C40EA53B0DC463;68
-(rerunfilecheck)             After:  4F0FE3A578EFBBB13A1C95BC5BD5936D;458.
+Package rerunfilecheck Info: File `Calculus_Tutorials.out' has not changed.
+(rerunfilecheck)             Checksum: 4F0FE3A578EFBBB13A1C95BC5BD5936D;458.
  ) 
 Here is how much of TeX's memory you used:
- 16858 strings out of 476493
- 353869 string characters out of 5820669
- 693296 words of memory out of 5000000
- 36938 multiletter control sequences out of 15000+600000
- 408495 words of font info for 70 fonts, out of 8000000 for 9000
+ 16863 strings out of 476493
+ 354013 string characters out of 5820669
+ 693292 words of memory out of 5000000
+ 36941 multiletter control sequences out of 15000+600000
+ 408511 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  90i,17n,97p,379b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 
